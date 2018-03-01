@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    font-family:'Robot'
+}
+
+header{
+    background:#03a9f4;
+    text-align: center
+    
+}
+
+.logo{
+    color:#fff;
+    font-family: Anton;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+
+.news_item{
+    padding:20px;
+    box-sizing:border-box;
+    border-bottom: 1px solid grey;
+}
+
+#one{
+    padding-bottom:20px;
+    margin-top:10px;
+}
+#one input{
+    padding-bottom:10px;
+    height:20px;
+    width:350px;
+
+}
